@@ -1,7 +1,7 @@
 ### Olá👋
 
 
-- 🌱 atualmente estou cursando desenvolvedor web full-stack  na Blue-edtech
+- 🌱 atualmente cursando desenvolvedor web full-stack  na Blue-edtech
 - 📫 contate - me no email: mateus_santiago2.3@outlook.com
 - ⚡ Fun fact:  sou apaixonado por tecnologia, Gosto de pescar, futebol, filmes e  estou sempre em busca de novos desafios.
 
