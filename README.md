@@ -12,3 +12,5 @@
 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![animation](https://github.com/MateusSantiagoDev/blob/output/github-contribution-grid-snake.svg)
