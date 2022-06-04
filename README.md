@@ -13,4 +13,4 @@
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![snake gif](https://github.com/MateusSantiagoDev/snake.yml/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MateusSantiagoDev/README.md/blob/output/github-contribution-grid-snake.svg)
