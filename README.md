@@ -6,12 +6,12 @@
   <div align="center">
   <a href="https://github.com/MateusSantiagoDev">
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MateusSantiagoDev&show_icons=true&theme=dracula&include_all_commits=true&count=true&title_color=58C478&icon_color=58C478text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MateusSantiagoDev&show_icons=true&theme=dracula&include_all_commits=true&count=true&title_color=58C478&icon_color=58C478text_color=c9d1d9&bg_color=0d1117"/>
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantiagoDev&layout=compact&langs_count=7&theme=dracula&count=true&title_color=58C478&icon_color=58C478text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantiagoDev&layout=compact&langs_count=7&theme=dracula&count=true&title_color=58C478&icon_color=58C478text_color=c9d1d9&bg_color=0d1117"/>
      </div>
   <div align="center">
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSantiagoDev&theme=dark&hide_border=true&stroke=58C478&background=0d1117&ring=58C478&fire=58C478&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="MateusSantiagoDev" />
+   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSantiagoDev&theme=dark&hide_border=true&stroke=58C478&background=0d1117&ring=58C478&fire=58C478&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="MateusSantiagoDev" />
      </div>
  
   ## Programming Languages
